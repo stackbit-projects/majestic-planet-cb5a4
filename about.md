@@ -1,5 +1,5 @@
 ---
-title: About
+title: More
 layout: advanced
 page_css_class: gray-background
 sections:
